@@ -33,4 +33,3 @@ function prependKitten(name) {
 
   return newKittens
 }
-
